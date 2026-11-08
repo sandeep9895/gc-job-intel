@@ -1,0 +1,5 @@
+# Raw data is downloaded from Kaggle, not committed
+*.csv
+*.jsonl
+data/
+.DS_Store
